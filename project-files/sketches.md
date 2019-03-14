@@ -2,6 +2,8 @@
 
 ## Problems to solve
 
+### Both City and State 
+
 1. Get files.  Tools:  BASH script with CURL.  Automate with `cron`.
 2. Extract vote data.  Tools:  `pdftohtml`, part of poppler-utils.  See what else is in poppler-utils, as well.
 3.  Organize vote data & associate with legislators.
@@ -9,3 +11,6 @@
 5.  Send new vote history reports at intervals.
 6.  Accept & manage site users.  
 
+### City version
+
+1.  Classify ordinances with machine learning.
